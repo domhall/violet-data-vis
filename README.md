@@ -1,2 +1,2 @@
-# dom-data-vis
+# violet-data-vis
 A docker notebook for visualising and analysing data
